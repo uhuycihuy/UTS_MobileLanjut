@@ -62,7 +62,7 @@ class _MainScreenState extends State<MainScreen> {
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
-              // Informasi developer
+              // Informasi saya
               Card(
                 child: Padding(
                   padding: const EdgeInsets.all(16.0),
